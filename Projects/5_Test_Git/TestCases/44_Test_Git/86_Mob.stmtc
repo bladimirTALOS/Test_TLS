@@ -1,0 +1,39 @@
+[
+  {
+    "TempId": 86,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": true,
+    "TestCaseType": 2,
+    "DataSheet": null,
+    "Scenario": null,
+    "TestSteps": [
+      {
+        "TempId": 548,
+        "StepNumber": 1,
+        "ActionId": 27,
+        "ComponentId": null,
+        "CustomActionId": null,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "LocatorTypeId": null,
+        "Screenshot": false,
+        "SkipStep": false,
+        "Description": null,
+        "Locator": null,
+        "Value": "google.com",
+        "Status": "Pending",
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "Name": "Mob",
+    "Created": null,
+    "Modified": null
+  }
+]
